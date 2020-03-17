@@ -1,0 +1,185 @@
+{
+  "dbVersion": 20200302,
+  "drivers": {
+    "chromedriver": {
+        "platforms": "win, mac",
+        "versions": [
+          {
+            "driverVersion": "81.0.4044.20",
+            "supportBrowser": "v81",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/81.0.4044.20/notes.txt"
+          },
+          {
+            "driverVersion": "80.0.3987.106",
+            "supportBrowser": "v80",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/80.0.3987.106/notes.txt"
+          },
+          {
+            "driverVersion": "79.0.3945.36",
+            "supportBrowser": "v79",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/79.0.3945.36/notes.txt"
+          },
+          {
+            "driverVersion": "78.0.3904.11",
+            "supportBrowser": "v78",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/78.0.3904.11/notes.txt"
+          },
+          {
+            "driverVersion": "77.0.3865.40",
+            "supportBrowser": "v77",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/77.0.3865.40/notes.txt"
+          },
+          {
+            "driverVersion": "76.0.3809.68",
+            "supportBrowser": "v76",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/76.0.3809.68/notes.txt"
+          },
+          {
+            "driverVersion": "75.0.3770.140",
+            "supportBrowser": "v75",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/75.0.3770.140/notes.txt"
+          },
+          {
+            "driverVersion": "74.0.3729.6",
+            "supportBrowser": "v74",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/74.0.3729.6/notes.txt"
+          },
+          {
+            "driverVersion": "73.0.3683.68",
+            "supportBrowser": "v73",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/73.0.3683.68/notes.txt"
+          },
+          {
+            "driverVersion": "72.0.3626.7",
+            "supportBrowser": "v72",
+            "changeInfo": ""
+          },
+          {
+            "driverVersion": "71.0.3578.80",
+            "supportBrowser": "v71",
+            "changeInfo": ""
+          },
+          {
+            "driverVersion": "70.0.3538.97",
+            "supportBrowser": "v70",
+            "changeInfo": ""
+          },
+          {
+            "driverVersion": "2.46",
+            "supportBrowser": "v71-v73",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/2.46/notes.txt"
+          },
+          {
+            "driverVersion": "2.45",
+            "supportBrowser": "v70-v72",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/2.45/notes.txt"
+          },
+          {
+            "driverVersion": "2.44",
+            "supportBrowser": "v69-v71",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/2.44/notes.txt"
+          },
+          {
+            "driverVersion": "2.43",
+            "supportBrowser": "v69-v71",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/2.43/notes.txt"
+          },
+          {
+            "driverVersion": "2.42",
+            "supportBrowser": "v68-v70",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/2.42/notes.txt"
+          },
+          {
+            "driverVersion": "2.41",
+            "supportBrowser": "v67-v69",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/2.41/notes.txt"
+          },
+          {
+            "driverVersion": "2.40",
+            "supportBrowser": "v66-v68",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/2.40/notes.txt"
+          }
+        ]
+      },
+      "geckodriver": {
+        "platforms": "win, mac",
+        "versions": [
+          {
+            "driverVersion": "0.26.0",
+            "supportBrowser": "",
+            "changeInfo": "https://github.com/mozilla/geckodriver/releases/tag/v0.26.0"
+          },
+          {
+            "driverVersion": "0.25.0",
+            "supportBrowser": "",
+            "changeInfo": "https://github.com/mozilla/geckodriver/releases/tag/v0.25.0"
+          },
+          {
+            "driverVersion": "0.24.0",
+            "supportBrowser": "",
+            "changeInfo": "https://github.com/mozilla/geckodriver/releases/tag/v0.24.0"
+          },
+          {
+            "driverVersion": "0.23.0",
+            "supportBrowser": "",
+            "changeInfo": "https://github.com/mozilla/geckodriver/releases/tag/v0.23.0"
+          },
+          {
+            "driverVersion": "0.22.0",
+            "supportBrowser": "",
+            "changeInfo": "https://github.com/mozilla/geckodriver/releases/tag/v0.22.0"
+          }
+        ]
+      },
+      "iedriver": {
+        "platforms": "win",
+        "versions": [
+          {
+            "driverVersion": "3.9",
+            "supportBrowser": "",
+            "changeInfo": ""
+          },
+          {
+            "driverVersion": "3.8",
+            "supportBrowser": "",
+            "changeInfo": ""
+          },
+          {
+            "driverVersion": "3.7",
+            "supportBrowser": "",
+            "changeInfo": ""
+          },
+          {
+            "driverVersion": "3.6",
+            "supportBrowser": "",
+            "changeInfo": ""
+          },
+          {
+            "driverVersion": "3.5",
+            "supportBrowser": "",
+            "changeInfo": ""
+          },
+          {
+            "driverVersion": "2.53",
+            "supportBrowser": "",
+            "changeInfo": ""
+          },
+          {
+            "driverVersion": "2.52",
+            "supportBrowser": "",
+            "changeInfo": ""
+          },
+          {
+            "driverVersion": "2.51",
+            "supportBrowser": "",
+            "changeInfo": ""
+          },
+          {
+            "driverVersion": "2.50",
+            "supportBrowser": "",
+            "changeInfo": ""
+          }
+        ]
+      }
+  }
+}
