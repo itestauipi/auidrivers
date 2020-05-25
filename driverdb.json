@@ -1,9 +1,14 @@
 {
-  "dbVersion": 20200302,
+  "dbVersion": 20200525,
   "drivers": {
     "chromedriver": {
         "platforms": "win, mac",
         "versions": [
+          {
+            "driverVersion": "83.0.4103.39",
+            "supportBrowser": "v83",
+            "changeInfo": "https://chromedriver.storage.googleapis.com/83.0.4103.39/notes.txt"
+          },
           {
             "driverVersion": "81.0.4044.20",
             "supportBrowser": "v81",
